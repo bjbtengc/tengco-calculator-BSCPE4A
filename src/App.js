@@ -83,7 +83,7 @@ function App() {
       }
     }
     else{
-      setDisp("Error negate only once at the beginning");
+      setDisp("Negates at beginning");
     }
     console.log(num1 +'|'+ num2 +'|'+ oper +'|'+ res +'|'+ disp);
   };
